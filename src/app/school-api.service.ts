@@ -6,21 +6,15 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class SchoolApiService {
-
-   url = "https://localhost:7166/Students";
-  
-
+   url = "https://localhost:44354/Students";
   constructor( private httpclient:HttpClient) {
-   
-   }
-
   
+   } 
    getDataStudent(): Observable<any>{
      return this.httpclient.get(this.url);
    }
-
    getDataStudentById():Observable<any>{
-    let paramId = new HttpParams().set('id', "9");
+    let paramId = new HttpParams().set('id', "1");
    return this.httpclient.get(this.url, {params:paramId})
    }
 

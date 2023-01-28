@@ -8,20 +8,36 @@ import { UserLoginComponent } from './user-login/user-login.component';
 import { LandingPageComponent } from './landing-page/landing-page/landing-page.component';
 import  {HttpClientModule}  from '@angular/common/http'
 import { SchoolApiService } from './school-api.service';
+import { FormsModule } from '@angular/forms';
+import { RouterModule, Routes } from '@angular/router';
 import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Services';
+import { ListStudentTeacherComponent } from './list-page/list-student-teacher/list-student-teacher.component';
+
+
+// const appRoute:Routes = [
+//   {
+//     path:"student" , component: ListStudentTeacherComponent,
+//   },
+//   {
+//     path:'',  component: LandingPageComponent,
+//   },
+// ]
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     UserLoginComponent,
-    LandingPageComponent ,
+    LandingPageComponent,
+    ListStudentTeacherComponent ,
     
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    // RouterModule.forRoot(appRoute)
   ],
   exports:[
     UserLoginComponent

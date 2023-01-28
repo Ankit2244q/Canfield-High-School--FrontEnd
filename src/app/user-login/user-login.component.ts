@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { NgForm } from '@angular/forms';
+import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Services';
 
 @Component({
   selector: 'app-user-login',
@@ -7,9 +9,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class UserLoginComponent implements OnInit {
 
-  constructor() { }
+  constructor(private _loginService:LoginSignUpApiService) { }
 
   ngOnInit(): void {
+  }
+
+  submitResgistration(data:any){
+     console.table("here",data);
+     this._loginService.saveUser(data).subscribe((response)=>{
+       console.log(response);
+     });
   }
 
 }
