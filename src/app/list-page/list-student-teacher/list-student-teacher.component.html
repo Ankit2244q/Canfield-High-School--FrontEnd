@@ -1,3 +1,5 @@
+
+<body>
 <div class="container">
   <div class="student--contaier">
     <span>List of </span> <b>{{ listSelected.value }} </b>
@@ -81,8 +83,9 @@
         <td>{{data.name}}</td>
         <td>{{data.employeeId}}</td>
         <td>{{data.address}}</td>
-        <td>{{data.isOnLeave}}</td>
+        <td>{{data.isOnLeave ? "Present" : "Yes"}}</td>
    
     </tbody>
   </table>                                                                 
 </div>
+</body>
