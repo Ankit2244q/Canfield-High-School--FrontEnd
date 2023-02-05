@@ -10,6 +10,7 @@ body {
     background-color: #242222;
   }
   /* Sidebar */
+  .sidebar {
     background-color: #242222;
     position: fixed;
     top: 0;
