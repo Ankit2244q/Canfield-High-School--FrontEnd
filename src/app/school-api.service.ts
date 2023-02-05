@@ -7,6 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class SchoolApiService {
    url = "https://localhost:44354/Students";
+   staffurl = "https://localhost:44354/Staff";
   constructor( private httpclient:HttpClient) {
   
    } 
@@ -16,6 +17,10 @@ export class SchoolApiService {
    getDataStudentById():Observable<any>{
     let paramId = new HttpParams().set('id', "1");
    return this.httpclient.get(this.url, {params:paramId})
+   }
+
+   getDataStaff():Observable<any>{
+     return this.httpclient.get(this.staffurl)
    }
 
    

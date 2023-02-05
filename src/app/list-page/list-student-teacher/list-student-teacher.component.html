@@ -1,7 +1,19 @@
+
+<body>
 <div class="container">
-<div class="student--contaier"><b>List of students</b></div>
-<div>see data of</div>
-<table class="table table-bordered">
+  <div class="student--contaier">
+    <span>List of </span> <b>{{ listSelected.value }} </b>
+  </div>
+
+  <label for="school-member-data">See list:</label>
+  <select id="select-option" (click)="getListOf()">
+    <option id="teacher" value="Teacher">Teacher</option>
+    <option id="student" selected="true" value="student">Student</option>
+    <option id="staff" value="Staff">Staff</option>
+    <!-- <option value="audi">Audi</option> -->
+  </select>
+
+  <table *ngIf="listSelected.value == 'student'" class="table table-bordered">
     <thead>
       <tr>
         <th scope="col">RollNumber</th>
@@ -11,12 +23,38 @@
         <th scope="col">Section</th>
         <th scope="col">Stream</th>
         <th scope="col">On leave</th>
-         <th scope="col">Fees due</th>
-        
+        <th scope="col">Fees due</th>
       </tr>
     </thead>
     <tbody>
-      <tr scope="row" *ngFor = "let data of studentList">
+      <tr scope="row" *ngFor="let data of studentList">
+        <td>{{ data.id }}</td>
+        <td>{{ data.name }}</td>
+        <td>{{ data.fatherName }}</td>
+        <td>{{ data.address }}</td>
+        <td>{{ data.section }}</td>
+        <td>{{ data.stream }}</td>
+        <td>{{ data.isOnLeave ? "Absent" : "Present" }}</td>
+        <td>{{ data.isFeeDue ? "Yes" : "No" }}</td>
+      </tr>
+    </tbody>
+  </table>
+                                                          <!--///TEACHERS LIST -->
+
+  <table *ngIf="listSelected.value == 'Teacher'" class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Stream</th>
+        <th scope="col">TeacherId</th>
+        <th scope="col">Address</th>
+        <th scope="col">JoinedDate</th>
+        <th scope="col">On leave</th>
+      </tr>
+    </thead>
+    <tbody> 
+      <!-- <tr scope="row" *ngFor = "let data of ">
+        
         <td>{{data.id}}</td>
         <td>{{data.name}}</td>
         <td>{{data.fatherName}}</td>
@@ -24,10 +62,30 @@
         <td>{{data.section}}</td>
         <td>{{data.stream}}</td>
         <td>{{data.isOnLeave ? 'Absent': 'Present' }}</td>
-        <td>{{data.isFeeDue? 'Yes' : 'No'}}</td>
-    </tr>
+        <td>{{data.isFeeDue? 'Yes' : 'No'}}</td> -->
+      <!-- </tr> -->
     </tbody>
   </table>
-  <!--Teachers data-->
-  
-  </div>
+                                                                   <!--STAFF LIST-->
+
+  <table *ngIf="listSelected.value == 'Staff'" class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Staff Id</th>
+        <th scope="col">Address</th>
+        <th scope="col">On leave</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr scope="row" *ngFor = "let data of staffList">
+        
+        <td>{{data.name}}</td>
+        <td>{{data.employeeId}}</td>
+        <td>{{data.address}}</td>
+        <td>{{data.isOnLeave ? "Present" : "Yes"}}</td>
+   
+    </tbody>
+  </table>                                                                 
+</div>
+</body>
