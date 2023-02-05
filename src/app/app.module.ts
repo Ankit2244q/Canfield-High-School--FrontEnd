@@ -12,6 +12,7 @@ import { FormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
 import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Services';
 import { ListStudentTeacherComponent } from './list-page/list-student-teacher/list-student-teacher.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
 
 // const appRoute:Routes = [
@@ -29,7 +30,8 @@ import { ListStudentTeacherComponent } from './list-page/list-student-teacher/li
     HeaderComponent,
     UserLoginComponent,
     LandingPageComponent,
-    ListStudentTeacherComponent ,
+    ListStudentTeacherComponent,
+    DashboardComponent ,
     
   ],
   imports: [
