@@ -8,6 +8,7 @@ import { Observable } from 'rxjs';
 export class SchoolApiService {
    url = "https://localhost:44354/Students";
    staffurl = "https://localhost:44354/Staff";
+   register = "https://localhost:44354/Register"
   constructor( private httpclient:HttpClient) {
   
    } 
@@ -22,6 +23,9 @@ export class SchoolApiService {
    getDataStaff():Observable<any>{
      return this.httpclient.get(this.staffurl)
    }
-
    
+   //post methods
+
+   submitUser(data:any){
+     this.httpclient.post(this.register,data)   }
 }

@@ -1,5 +1,7 @@
+import { registerLocaleData } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
+import { Observable } from 'rxjs';
 import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Services';
 
 @Component({
@@ -14,11 +16,23 @@ export class UserLoginComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  submitResgistration(data:any){
-     console.table("here",data);
-     this._loginService.saveUser(data).subscribe((response)=>{
-       console.log(response);
-     });
+  submitResgistration(data:any):Promise<any>{
+    console.log("------------------------------",data.FirstName)
+     let registrationData = {
+      UserName:data.FirstName,
+      LastName:data.LastName,
+      Email:data.Email,
+      Password:data.password,
+
+     }  
+
+    return this._loginService.saveUser(registrationData).then(data => {
+      
+       console.log("here is the datata to show" , data);
+     })
   }
+
+  
+
 
 }

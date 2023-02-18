@@ -3,3 +3,11 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
 }
+
+.container{
+    margin-right: -50px;
+}
+
+.school--data{
+    font-size: 1rem;
+}
