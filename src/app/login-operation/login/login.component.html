@@ -1,0 +1,45 @@
+<!-- Section: Design Block -->
+<section class="text-center">
+    <!-- Background image -->
+
+      <div class="card-body py-5 px-md-5">
+  
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-8">
+            <h2 class="fw-bold mb-5">Login here </h2>
+            <form #loginForm ="ngForm" (ngSubmit)="submitlogin()">
+              <!-- 2 column grid layout with text inputs for the first and last names -->
+           
+              <!-- Email input -->
+              <div class="form-outline mb-4">
+                <input type="email" ngModel  name="Email" id="form3Example3" class="form-control" />
+                <label class="form-label" for="form3Example3">Email address</label>
+              </div>
+  
+              <!-- Password input -->
+              <div class="form-outline mb-4">
+                <input type="password" ngModel name="password"  id="form3Example4" class="form-control" />
+                <label class="form-label" for="form3Example4">Password</label>
+              </div>
+  
+  
+              <!-- Submit button -->
+              <button type="submit" class="btn btn-primary btn-block mb-4">
+                Login
+              </button>
+  
+              <!-- Register buttons -->
+              <div class="text-center">
+                <a routerLink="/register"><p>or dont have an account? sign up here</p></a>
+                <button type="button" class="btn btn-link btn-floating mx-1">
+                  <i class="fab fa-facebook-f"></i>
+                </button>
+  
+                
+
+              </div>
+            </form>
+          </div>
+        </div>
+
+  <!-- Section: Design Block -->

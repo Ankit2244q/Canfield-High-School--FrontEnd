@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
-import { UserLoginComponent } from './user-login/user-login.component';
+import { UserLoginComponent } from './user-signup/user-login.component';
 import { LandingPageComponent } from './landing-page/landing-page/landing-page.component';
 import  {HttpClientModule}  from '@angular/common/http'
 import { SchoolApiService } from './school-api.service';
@@ -13,6 +13,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Services';
 import { ListStudentTeacherComponent } from './list-page/list-student-teacher/list-student-teacher.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { LoginComponent } from './login-operation/login/login.component';
 
 
 // const appRoute:Routes = [
@@ -31,7 +32,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     UserLoginComponent,
     LandingPageComponent,
     ListStudentTeacherComponent,
-    DashboardComponent ,
+    DashboardComponent,
+    LoginComponent ,
     
   ],
   imports: [
