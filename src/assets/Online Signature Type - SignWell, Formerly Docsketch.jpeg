@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)https://www.signwell.com/online-signature/type/ -->
+<html class="wf-proximanova-n7-active wf-proximanova-i7-active wf-proximanova-n6-active wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanova-n5-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://www.signwell.com">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="  Online Signature Type
+ - SignWell">
+  <meta property="og:description" content="Get your documents signed 40% faster with zero-setup electronic signatures. SignWell helps you cut turnaround time and makes it easy for everyone to electronically sign your documents.">
+  <meta property="og:image" content="https://www.signwell.com/social.jpg">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="signwell.com">
+  <meta property="twitter:url" content="https://www.signwell.com">
+  <meta name="twitter:title" content="  Online Signature Type
+ - SignWell">
+  <meta name="twitter:description" content="Get your documents signed 40% faster with zero-setup electronic signatures. SignWell helps you cut turnaround time and makes it easy for everyone to electronically sign your documents.">
+  <meta name="twitter:image" content="https://www.signwell.com/social.jpg">
+
+    <link rel="canonical" href="https://www.signwell.com/online-signature/type/">
+  
+  <title>  Online Signature Type
+ - SignWell, Formerly Docsketch</title>
+
+    <link href="./Online Signature Type - SignWell, Formerly Docsketch_files/css" rel="stylesheet">
+
+  <link rel="stylesheet" media="screen" href="./Online Signature Type - SignWell, Formerly Docsketch_files/application-a680092609fff2fb9d990c7ecb7768bf1b4b8691f7dd4f3cf62027c15ed4610c.css">
+  <link rel="icon" type="image/svg+xml" href="https://www.signwell.com/assets/favicon-a697d38cbd1804a3f41b8be0f66164a2fd6b9f63dbf3bad8f8c9fae3e4a5ba88.svg">
+  <link rel="alternate icon" type="image/x-icon" href="https://www.signwell.com/assets/favicon-171eb9fed1d7aa9cc1c5885b4ff9cd5afb0c412855c617ea858dcd704153bf20.ico">
+
+  <style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/analytics.js.download"></script><script async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/tracker.js.download" id="fathom-script"></script><script src="./Online Signature Type - SignWell, Formerly Docsketch_files/1863429393921803" async=""></script><script async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/fbevents.js.download"></script><script type="text/javascript" integrity="sha384-AUydfiSe1Ky1zDY/KCJrSDvNC/Rb1TyoiQ10xfyB/LUYw8GOwJ07SUTa9SxvinL2" crossorigin="anonymous" async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/amplitude-7.4.1-min.gz.js.download"></script><script async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+  </script>
+
+
+  <script type="text/javascript">
+    (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+    ;r.type="text/javascript"
+    ;r.integrity="sha384-AUydfiSe1Ky1zDY/KCJrSDvNC/Rb1TyoiQ10xfyB/LUYw8GOwJ07SUTa9SxvinL2"
+    ;r.crossOrigin="anonymous";r.async=true
+    ;r.src="https://cdn.amplitude.com/libs/amplitude-7.4.1-min.gz.js"
+    ;r.onload=function(){if(!e.amplitude.runQueuedFunctions){
+    console.log("[Amplitude] Error: could not load SDK")}}
+    ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+    ;function s(e,t){e.prototype[t]=function(){
+    this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+    var o=function(){this._q=[];return this}
+    ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+    ;for(var c=0;c<a.length;c++){s(o,a[c])}n.Identify=o;var u=function(){this._q=[]
+    ;return this}
+    ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+    ;for(var p=0;p<l.length;p++){s(u,l[p])}n.Revenue=u
+    ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","enableTracking","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","groupIdentify","onInit","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+    ;function v(e){function t(t){e[t]=function(){
+    e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+    for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+    e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+    ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+    ;e.amplitude=n})(window,document);
+
+    amplitude.getInstance().init("8a95dfa13d5e6dbbd2d002cd14a49128", null, {
+      // optional configuration options
+      includeUtm: true,
+      includeReferrer: true
+    });
+  </script>
+
+  <script>
+  </script>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1863429393921803'); // Insert your pixel ID here.
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1863429393921803&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- DO NOT MODIFY -->
+  <!-- End Facebook Pixel Code -->
+
+  <!-- Hotjar Tracking Code for https://www.signwell.com -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:481421,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script><script async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/hotjar-481421.js.download"></script>
+
+  <!-- Fathom - simple website analytics -->
+  <script>
+  (function(f, a, t, h, o, m){
+    a[h]=a[h]||function(){
+      (a[h].q=a[h].q||[]).push(arguments)
+    };
+    o=f.createElement('script'),
+    m=f.getElementsByTagName('script')[0];
+    o.async=1; o.src=t; o.id='fathom-script';
+    m.parentNode.insertBefore(o,m)
+  })(document, window, '//docsketch.usesfathom.com/tracker.js', 'fathom');
+  </script>
+  <!-- / Fathom -->
+
+  <script src="./Online Signature Type - SignWell, Formerly Docsketch_files/xoz0rpv.js.download"></script>
+  <style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style><style type="text/css">@font-face{font-family:tk-proxima-nova-n7;src:url(https://use.typekit.net/af/f80f1d/00000000000000003b9aefb8/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/f80f1d/00000000000000003b9aefb8/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/f80f1d/00000000000000003b9aefb8/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-i7;src:url(https://use.typekit.net/af/29352b/00000000000000003b9aefb9/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/29352b/00000000000000003b9aefb9/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/29352b/00000000000000003b9aefb9/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-n6;src:url(https://use.typekit.net/af/919204/00000000000000003b9aefc2/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/919204/00000000000000003b9aefc2/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/919204/00000000000000003b9aefc2/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-n4;src:url(https://use.typekit.net/af/af96c8/00000000000000003b9aefc0/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/af96c8/00000000000000003b9aefc0/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/af96c8/00000000000000003b9aefc0/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-i4;src:url(https://use.typekit.net/af/20aa1e/00000000000000003b9aefc1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/20aa1e/00000000000000003b9aefc1/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/20aa1e/00000000000000003b9aefc1/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-n5;src:url(https://use.typekit.net/af/aae429/00000000000000003b9aefbe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/aae429/00000000000000003b9aefbe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/aae429/00000000000000003b9aefbe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}</style><script src="./Online Signature Type - SignWell, Formerly Docsketch_files/application-40abf0d355f5b3c2442109e305bd17ad9b0716e47351afdd3a75a1cda54b58db.js.download"></script>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="_Ajrw8dAqqnDis8rYuFL9IhjK67YvfAdxBjZef1Cz7xXyvIf1n-jLb0Zvk9GspBXJ258GeeaKCG_SDRk98813A">
+    <meta name="robots" content="noindex">
+  <meta name="turbolinks-visit-control" content="reload">
+
+
+  <!-- Rewardful - referral program -->
+  <script async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/rw.js.download" data-rewardful="1578c0"></script>
+<style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/f80f1d/00000000000000003b9aefb8/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/f80f1d/00000000000000003b9aefb8/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/f80f1d/00000000000000003b9aefb8/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/29352b/00000000000000003b9aefb9/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/29352b/00000000000000003b9aefb9/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/29352b/00000000000000003b9aefb9/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/919204/00000000000000003b9aefc2/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/919204/00000000000000003b9aefc2/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/919204/00000000000000003b9aefc2/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/af96c8/00000000000000003b9aefc0/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/af96c8/00000000000000003b9aefc0/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/af96c8/00000000000000003b9aefc0/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/20aa1e/00000000000000003b9aefc1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/20aa1e/00000000000000003b9aefc1/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/20aa1e/00000000000000003b9aefc1/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/aae429/00000000000000003b9aefbe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/aae429/00000000000000003b9aefbe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/aae429/00000000000000003b9aefbe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}</style><script async="" src="./Online Signature Type - SignWell, Formerly Docsketch_files/modules.7cafb00353603cadd6c4.js.download" charset="utf-8"></script></head>
+
+  <body class="light">
+  	<div id="mobile-wrapper">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHKC8Q4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+  <div>
+    <header>
+      <div class="wrap classic_nav_container">
+        <div class="logo">
+          <a href="https://www.signwell.com/">
+            <img alt="SignWell" src="./Online Signature Type - SignWell, Formerly Docsketch_files/logo-a501367bf703c636a7f9c5d9639f00ccd90804e544c1aa0494999320115efcb0.svg">
+</a>        </div>
+        <nav>
+        <ul class="classic_nav_links_container">
+          <a title="SignWell API" data-turbolinks="false" class="nav_link" href="https://www.signwell.com/api/">API</a>
+
+          <li><a title="Security" class="nav_link " data-turbolinks="false" href="https://www.signwell.com/security/">Security</a></li>
+
+          <div class="top_navbar_dropdown_container classic_nav">
+            <a title="Pricing" class="nav_link " href="https://www.signwell.com/pricing/">Pricing</a>
+
+            <div class="top_navbar_dropdown">
+              <div class="top_navbar_dropdown_polygon"></div>
+
+              <a title="SignWell Pricing" data-turbolinks="false" class="top_navbar_dropdown_link" href="https://www.signwell.com/pricing/">SignWell Pricing</a>
+
+              <a title="API Pricing" data-turbolinks="false" class="top_navbar_dropdown_link" href="https://www.signwell.com/api-pricing/">API Pricing</a>
+            </div>
+          </div>
+
+          <li><a title="About" class="nav_link less_margin " data-turbolinks="false" href="https://www.signwell.com/about/">About</a></li>
+
+          <li><a class="btn nav_link" title="Log In" data-turbolinks="false" href="https://www.signwell.com/log_in/">Log In</a></li>
+        </ul>
+      </nav>
+      </div>
+    </header>
+  </div>
+
+<script type="text/javascript">
+  $(".top_navbar_dropdown_container .ci_top_navbar_link, .top_navbar_dropdown_container .nav_link").click(function (e) {
+    e.stopPropagation();
+    e.preventDefault();
+
+    $(this).next(".top_navbar_dropdown").toggleClass("show");
+  });
+</script>
+    
+<main class="modal-parent">
+  <section class="back-section">
+  <a class="back-link" data-turbolinks="false" href="https://www.signwell.com/online-signature/">Go back</a>
+</section>
+
+  <article class="wide">
+    <div class="wrap wider">
+      <h1>Type your signature</h1>
+      <div class="type-signature">
+        <input id="type-signature" maxlength="20" type="text" placeholder="Type name here">
+        <button class="btn-default" id="create-typed-signature">Update</button>
+        <div class="created-signatures hidden" style="display: block;">
+            <div class="created-signature item-1" data-text="Ankit podal" style="display: block;"></div>
+            <div class="created-signature item-2" data-text="Ankit podal" style="display: block;"></div>
+            <div class="created-signature item-3" data-text="Ankit podal" style="display: block;"></div>
+            <div class="created-signature item-4" data-text="Ankit podal" style="display: block;"></div>
+            <div class="created-signature item-5" data-text="Ankit podal" style="display: block;"></div>
+            <div class="created-signature item-6" data-text="Ankit podal" style="display: block;"></div>
+            <div class="created-signature item-7" data-text="Ankit podal"></div>
+            <div class="created-signature item-8" data-text="Ankit podal"></div>
+            <div class="created-signature item-9" data-text="Ankit podal"></div>
+            <div class="created-signature item-10" data-text="Ankit podal"></div>
+            <div class="created-signature item-11" data-text="Ankit podal"></div>
+            <div class="created-signature item-12" data-text="Ankit podal"></div>
+            <div class="created-signature item-13" data-text="Ankit podal"></div>
+            <div class="created-signature item-14" data-text="Ankit podal"></div>
+            <div class="created-signature item-15" data-text="Ankit podal"></div>
+            <div class="created-signature item-16" data-text="Ankit podal"></div>
+            <div class="created-signature item-17" data-text="Ankit podal"></div>
+            <div class="created-signature item-18" data-text="Ankit podal"></div>
+            <div class="created-signature item-19" data-text="Ankit podal"></div>
+            <div class="created-signature item-20" data-text="Ankit podal"></div>
+            <div class="created-signature item-21" data-text="Ankit podal"></div>
+            <div class="created-signature item-22" data-text="Ankit podal"></div>
+            <div class="created-signature item-23" data-text="Ankit podal"></div>
+            <div class="created-signature item-24" data-text="Ankit podal"></div>
+            <div class="created-signature item-25" data-text="Ankit podal"></div>
+            <div class="created-signature item-26" data-text="Ankit podal"></div>
+            <div class="created-signature item-27" data-text="Ankit podal"></div>
+            <div class="created-signature item-28" data-text="Ankit podal"></div>
+            <div class="created-signature item-29" data-text="Ankit podal"></div>
+            <div class="created-signature item-30" data-text="Ankit podal"></div>
+            <div class="created-signature item-31" data-text="Ankit podal"></div>
+          <button id="load-more-signatures" class="btn-default">Load more</button>
+        </div>
+      </div>
+      <div class="link-block">
+  <span>Want to eSign documents online? </span>
+  <span style="margin-left: 2px">Check out</span>
+  <a href="https://www.signwell.com/electronic-signature/?prev=online-signatures" title="SignWell electronic signatures" target="_blank">SignWell (free document eSigning)</a>
+</div>
+
+    </div>
+  </article>
+  <div class="editor-modal fade" id="editor-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="typed-signature-editor">
+        <canvas id="edit-typed-signature" width="500"></canvas>
+        <div class="typed-signature-control">
+          <div class="range-control">
+            <span class="control-label">Slant</span>
+            <input type="text" class="range-slider" data-slider-min="0" data-slider-max="0.6" data-slider-step="0.3" data-slider-value="0" data-slider-tooltip="hide" data-slider-ticks="[0, 0.3, 0.6]" data-slider-ticks-labels="[&quot;Default&quot;, &quot;More &lt;br/&gt; slant&quot;, &quot;Max &lt;br/&gt; slant&quot;]">
+          </div>
+          <div class="color-controls">
+            <span class="control-label">Color</span>
+            <input id="color-1" type="radio" name="color" value="#000000" checked="">
+            <label class="color-item default" for="color-1"></label>
+            <input id="color-2" type="radio" name="color" value="#003eb0">
+            <label class="color-item blue" for="color-2"></label>
+            <input id="color-3" type="radio" name="color" value="#172a55">
+            <label class="color-item dark" for="color-3"></label>
+            <input id="color-4" type="radio" name="color" value="#6eaa4d">
+            <label class="color-item green" for="color-4"></label>
+            <input id="color-5" type="radio" name="color" value="#c01900">
+            <label class="color-item red" for="color-5"></label>
+            <input id="colorpicker" type="radio" name="color" value="#51b7c5" style="display: none;"><div class="sp-replacer sp-light color-item"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(81, 183, 197);"></div></div><div class="sp-dd">▼</div></div>
+          </div>
+          <div class="button-controls">
+            <button class="btn-default" id="signature-save">Save</button>
+            <button class="btn-default transparent" id="reset-typed-signature">Cancel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="preview-modal fade" id="preview-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <button class="close" id="signature-preview-close"></button>
+      <div class="preview-modal-content">
+        <div class="block">
+          <h2 class="title">Your signature</h2>
+          <div class="signature-preview"></div>
+          <div class="signature-transparent">
+            <span>Transparent background</span>
+            <label class="switch" for="checkbox">
+              <input type="checkbox" id="checkbox">
+              <div class="slider round"></div>
+            </label>
+          </div>
+          <button class="btn-default" download="signature.png" id="signature-download" onclick="saveImageDownload();">Download</button>
+          <p class="mobile-download-help">
+            (Check your browser downloads after clicking download.)
+          </p>
+        </div>
+        <div class="block docsketch-promo">
+          <h2 class="title">SignWell (for Documents)</h2>
+          <h3 class="subtitle">Get FREE access to easy document signing software, SignWell.</h3>
+          <ul class="list">
+            <li>40% faster turnaround on contracts with online signatures</li>
+            <li>Instant notifications so you know when contracts are opened</li>
+            <li>100% legally binding paperless agreements, forms, and other documents</li>
+          </ul>
+          <button onclick="window.location.href=&#39;https://www.signwell.com/electronic-signature/?prev=online-signatures&#39;;" class="btn-default">eSign My Document</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</main>
+
+
+    <footer class="footer">
+  
+  <div class="wrap">
+    <div class="footer-row">
+      <div class="footer-left-side">
+        <a class="logo-link" href="https://www.signwell.com/">
+        <svg class="footer-logo">
+          <use xlink:href="/assets/logo-color-34a5794800cd1609ad499c8c95aab276a15b4750917da8dcecaff9e17b6747d0.svg#logo"></use>
+        </svg>
+</a>        <div class="footer-socials">
+          <a target="_blank" class="footer-social tw" href="https://twitter.com/SignWellApp"></a>
+          <a target="_blank" class="footer-social fb" style="display: none" href="https://www.facebook.com/getdocsketch/"></a>
+        </div>
+      </div>
+      <div class="footer-right-side">
+        <div class="footer-col">
+          <h2>Product</h2>
+          <div class="footer-menu">
+            <a data-turbolinks="false" title="SignWell API" href="https://www.signwell.com/api/">API</a>
+            <a data-turbolinks="false" title="SignWell Pricing" href="https://www.signwell.com/pricing/">SignWell Pricing</a>
+            <a data-turbolinks="false" title="API Pricing" href="https://www.signwell.com/api-pricing/">API Pricing</a>
+            <a data-turbolinks="false" title="Security" href="https://www.signwell.com/security/">Security</a>
+            <a data-turbolinks="false" title="About" href="https://www.signwell.com/about/">About</a>
+            <a data-turbolinks="false" title="Referral Program" href="https://www.signwell.com/referral-program/">Referral Program</a>
+            <a target="_blank" title="SignWell Help Site" href="https://help.signwell.com/">Help</a>
+            <a target="_blank" title="SignWell Status Site" href="https://status.signwell.com/">Status</a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h2>Company</h2>
+          <div class="footer-menu">
+            <a data-turbolinks="false" title="Privacy Policy" href="https://www.signwell.com/privacy/">Privacy</a>
+            <a data-turbolinks="false" title="Terms and Conditions" href="https://www.signwell.com/terms/">Terms</a>
+            <a data-turbolinks="false" title="CCPA" href="https://www.signwell.com/ccpa/">CCPA</a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h2>Resources</h2>
+          <div class="footer-menu">
+            <a data-turbolinks="false" title="Electronic Signature" href="https://www.signwell.com/electronic-signature/">Electronic Signature</a>
+            <a title="Online Signature Maker" data-turbolinks="false" href="https://www.signwell.com/online-signature/">Online Signature</a>
+            <a title="What Is an Electronic Signature?" href="https://www.signwell.com/electronic-signature/what-is-signature/">What Is an Electronic Signature?</a>
+            <a data-turbolinks="false" title="Contract Templates" href="https://www.signwell.com/contracts/">Contract Templates</a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h2>Comparisons &amp; Integrations</h2>
+          <div class="footer-menu">
+            <a data-turbolinks="false" title="DocuSign Alternative" href="https://www.signwell.com/docusign-alternative/">DocuSign Alternative</a>
+            <a data-turbolinks="false" title="HelloSign Alternative" href="https://www.signwell.com/hellosign-alternative/">HelloSign Alternative</a>
+            <a data-turbolinks="false" title="Adobe Sign Alternative" href="https://www.signwell.com/adobe-sign-alternative/">Adobe Sign Alternative</a>
+            <a data-turbolinks="false" title="DocHub Alternative" href="https://www.signwell.com/dochub-alternative/">DocHub Alternative</a>
+
+            <a data-turbolinks="false" title="SignNow Alternative" href="https://www.signwell.com/signnow-alternative/">SignNow Alternative</a>
+
+            <a data-turbolinks="false" title="Close Integration" href="https://www.signwell.com/close/">Close Integration</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-row">
+      <span>Copyright © 2023 SignWell</span>
+    </div>
+  </div>
+</footer>
+
+
+
+  <script>
+    var amplitudeClient = amplitude.getInstance();
+    identify = new amplitude.Identify().setOnce('first_touch_event', 'Viewed Online Signature Page');
+    amplitude.getInstance().identify(identify);
+    amplitudeClient.logEvent('Viewed Online Signature Page');
+  </script>
+
+
+
+	</div>
+  
+
+<iframe id="_hjSafeContext_80203588" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="./Online Signature Type - SignWell, Formerly Docsketch_files/saved_resource.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div class="sp-container sp-hidden sp-light sp-input-disabled sp-buttons-disabled sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(0, 224, 255);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="https://www.signwell.com/online-signature/type/#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div></body></html>

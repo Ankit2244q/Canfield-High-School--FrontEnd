@@ -14,6 +14,7 @@ import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Serv
 import { ListStudentTeacherComponent } from './list-page/list-student-teacher/list-student-teacher.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { LoginComponent } from './login-operation/login/login.component';
+import { JwtModule } from '@auth0/angular-jwt';
 
 
 // const appRoute:Routes = [
@@ -24,6 +25,11 @@ import { LoginComponent } from './login-operation/login/login.component';
 //     path:'',  component: LandingPageComponent,
 //   },
 // ]
+
+export function getJwtToken(){
+  return localStorage.getItem("jwt");
+}
+
 
 @NgModule({
   declarations: [
@@ -41,6 +47,14 @@ import { LoginComponent } from './login-operation/login/login.component';
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
+    JwtModule.forRoot({
+      config: {
+        tokenGetter: getJwtToken,
+        allowedDomains: ["localhost:4200"],
+        disallowedRoutes: []
+      }
+    })
+
     // RouterModule.forRoot(appRoute)
   ],
   exports:[

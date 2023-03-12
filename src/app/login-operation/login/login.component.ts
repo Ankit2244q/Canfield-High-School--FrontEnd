@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-
+import { LoginSignUpApiService } from 'src/Login/Signup-services/Log-Singup.Services'
+import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
@@ -7,11 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LoginComponent implements OnInit {
 
-  constructor() { }
+  constructor(private _httprequest:HttpClient ,private _login:LoginSignUpApiService) { }
 
-  submitlogin(){
-     alert("login success");
+submitlogin(data:any){
+  console.log("works")    
+ this._login.login(data);
   }
+  
 
   ngOnInit(): void {
   }

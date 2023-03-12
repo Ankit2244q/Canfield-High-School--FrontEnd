@@ -58,6 +58,7 @@ export class LoginSignUpApiService implements OnInit  {
   }
 
   login(data:any){
+  
     this.httpclient.post<AuthenticatedResponse>(this.url + this.endPoints.login, data, {
         headers: new HttpHeaders({ "Content-Type": "application/json"})
       }).subscribe({
@@ -65,12 +66,13 @@ export class LoginSignUpApiService implements OnInit  {
           const token = response.token;
           localStorage.setItem("jwt", token); 
           this.invalidLogin = false; 
-          this.router.navigate(["/"]);
+          this.router.navigate(["/userlist"]);
         }
-        // error: (err: HttpErrorResponse) => this.invalidLogin = true
+        
+        //error: (err: HttpErrorResponse) => this.invalidLogin = true
         
       })
-  }
+  } 
   //   const endPoints="/Register"  
   
     

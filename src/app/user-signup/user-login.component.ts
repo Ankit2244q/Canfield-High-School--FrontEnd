@@ -16,7 +16,7 @@ export class UserLoginComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  submitResgistration(data:any):Promise<any>{
+  submitResgistration(data:any){
     console.log("------------------------------",data.FirstName)
      let registrationData = {
       UserName:data.FirstName,
@@ -26,13 +26,13 @@ export class UserLoginComponent implements OnInit {
 
      }  
 
-    return this._loginService.saveUser(registrationData).then(data => {
+  //   return this._loginService.saveUser(registrationData).then(data => {
       
-       console.log("here is the datata to show" , data);
-     })
-  }
+  //      console.log("here is the datata to show" , data);
+  //    })
+  // }
 
   
 
-
+    }
 }
